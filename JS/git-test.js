@@ -5,5 +5,6 @@ function GitTest() {
     console.log('master test');
     console.log('hot-fix test');
     console.log('push test');
+    console.log('pull test');
 }
 GitTest();
